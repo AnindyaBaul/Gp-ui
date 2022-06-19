@@ -1,0 +1,262 @@
+@media only screen and (max-width: 688px) {
+
+    .border1{
+        border: 1px solid red!important;
+    }
+
+    nav {
+        background-color: #4696E2 !important;
+        color: white;
+    }
+
+    .sp-color-bg {
+        border-radius: 50%;
+        color: white;
+        width: 45px;
+        height: 45px;
+        display: block;
+        background-color: white;
+
+    }
+
+    #sp-color {
+        color: lightgrey;
+        font-size: 45px;
+    }
+
+    .nav-icon {
+        display: flex;
+        justify-content: flex-end;
+        gap: 15px;
+        width: 200px;
+
+
+    }
+
+    .nav-icon a {
+        display: inline;
+        font-size: 25px;
+
+    }
+
+    .user-icon {
+        font-size: 40px;
+    }
+
+    .account-sec {
+        display: flex;
+        justify-content: space-around;
+        height: 200px;
+        /* border: 3px solid red; */
+        align-items: flex-end;
+
+    }
+
+    .account-dtl {
+        width: 40%;
+        /* border: 3px solid red; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .red-circle {
+        height: 100px;
+        width: 100px;
+        background-color: red;
+        border-radius: 50%;
+        text-align: center;
+        padding-top: 24px;
+        font-weight: 600;
+        color: white;
+    }
+
+
+    .account-icon {
+
+        width: 40%;
+
+    }
+
+
+    .ft-sec {
+        border-block: 9px solid rgba(211, 211, 211, 0.467);
+        padding-top: 15px;
+
+
+    }
+
+    .icon1 {
+        height: 60px;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+      
+    }
+
+    .icon1 img {
+        height: 100%;
+        width: 40px;
+    }
+
+    .icon1 div {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .icon2 div {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .icon2 {
+        height: 60px;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        /* border: 3px solid red; */
+        margin-top: 30px;
+    }
+
+    .icon2 img {
+        height: 100%;
+        width: 40px;
+    }
+
+    .bundel-offer {
+        display: flex;
+        overflow: scroll;
+
+    }
+
+
+    .taka2 {
+        height: 30px;
+        width: 30px;
+
+
+    }
+
+    .taka2 img {
+        height: 100%;
+        width: 100%;
+
+    }
+
+    .recharge {
+        width: 220px;
+    }
+
+    .recharge h2 {
+        font-size: 15px;
+    }
+
+    .bun1 {
+        width: 320px;
+        height: 120px;
+        box-shadow: 0 0 20px lightgray;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .b-nav {
+
+
+
+
+    }
+
+    .b-nav div {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .sec-bar{
+    
+   
+    }
+
+    .bar-img{
+        width: 100%;
+        height: 150px;
+    }
+    .bar-img img{
+        /* height: 100%; */
+        width: 100%;
+    }
+    .bar-middle{
+    
+        left: 170px;
+    }
+    .bar-middle i{
+       font-size: 35px;
+    }
+  
+    .bar-left i{
+       font-size: 35px;
+    }
+    .bar-right i{
+       font-size: 35px;
+    }
+    .bg-trasparant{
+        height: 70px;
+        width: 70px;
+background-color:transparent;
+bottom: 15px;
+border-radius: 0 0 30px 30px;
+/* border: 3px solid gray; */
+    }
+    .circle-border{
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        position: relative;
+        bottom: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 0 10px 0 rgb(237, 121, 121);
+        background-color: transparent;
+
+    }
+    .explore-i{
+        /* color: blue; */
+        /* top: 5px; */
+        border-radius: 50%;
+      background: -webkit-linear-gradient(#eee, #333);
+       
+    }
+    .text-explore{
+        position: relative;
+        bottom: 14px;
+    }
+    .account-t{
+        margin-left: -12px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
